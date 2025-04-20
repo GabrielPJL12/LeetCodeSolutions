@@ -11,8 +11,8 @@ This repository contains my solutions to various coding problems on [LeetCode](h
 
 ## 🗂️ Organization
 
-- Solutions are grouped by problem name or number  
-- Each file includes a brief problem description, my approach, and the solution code
+- Solutions are grouped by problem number  
+- Each folder includes a brief problem description and my approach to the problem.
 
 ## ✅ Progress
 
@@ -21,10 +21,7 @@ This repository contains my solutions to various coding problems on [LeetCode](h
 
 ## 🛠️ Languages Used
 
-- [ ] Python  
 - [x] Java  
-- [ ] JavaScript  
-- [ ] C++  
 
 ## 🚀 How to Use
 
