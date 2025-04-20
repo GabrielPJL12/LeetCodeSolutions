@@ -1,7 +1,7 @@
 # 🧠 LeetCode Solutions
 
 Welcome to my personal collection of LeetCode solutions!  
-This repository contains my solutions to various coding problems on [LeetCode](https://leetcode.com/), written in multiple programming languages.
+This repository contains my solutions to various coding problems on [LeetCode](https://leetcode.com/).
 
 ## 📌 Goals
 
