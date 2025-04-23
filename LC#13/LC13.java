@@ -15,7 +15,7 @@ public class LC13 {
     }
 
     public static int romanToInt(String s) {
-        HashMap<Character, Integer> myHashMap = new HashMap<Character, Integer>();
+        HashMap<Character, Integer> myHashMap = new HashMap<>();
         myHashMap.put('I', 1);
         myHashMap.put('V', 5);
         myHashMap.put('X', 10);
