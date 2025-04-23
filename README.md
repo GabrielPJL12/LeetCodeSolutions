@@ -16,8 +16,8 @@ This repository contains my solutions to various coding problems on [LeetCode](h
 
 ## ✅ Progress
 
-- **Solved:** 1 problem(s)  
-- **Last Updated:** 2025-04-20
+- **Solved:** 3 problems
+- **Last Updated:** 2025-04-22
 
 ## 🛠️ Languages Used
 
