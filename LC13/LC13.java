@@ -1,6 +1,4 @@
-
 import java.util.HashMap;
-
 
 public class LC13 {
     public static void main(String args[]) {
@@ -68,12 +66,9 @@ public class LC13 {
                     default -> {
                         result = result + myHashMap.get(s.charAt(i));
                     }
-
                 }
-
             }
         }
-
         return result;
     }
 }
